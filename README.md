@@ -25,7 +25,7 @@ It works by shifting each letter in the message by a fixed number of positions i
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-cli.git
+git clone https://github.com/HarshitPal25/Caesar-Cipher-encryption-and-decryption-tool.git
 cd caesar-cipher-cli
 ```
 ```
